@@ -1,0 +1,14 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+NC_000011.10:c5227071-5225466      ACATTTGCTTCTGACACAACTGT---GTTCACTAGCAACCTCAAACAGACACCATGGTGC
+AE017125.1                         -CAT-------TAAACCAAGTATAAAATCTATAAATTATCTTTATTTATCTACATAACAT
+                                    ***       * *  *** * *    *  *  *   * **  *     *  ***     
+
+NC_000011.10:c5227071-5225466      ATCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGGGCAAGGTGAACGTGGAT-
+AE017125.1                         AGTTAA-----AAAATTAAGTTTACTTGCATTATACTTT----TAAGTTAAATATAAATC
+                                   *  * *      *    **** * *    * *   ** *     *** * **  *  ** 
+
+NC_000011.10:c5227071-5225466      -------------GAAGTTGGTGGTGAGGCCCTGGGC
+AE017125.1                         GTTCAATTAAATATAAATAAGTGACGGAAGGGGGATT
+                                                 ** *  ***  *       *   
